@@ -1,15 +1,24 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image-with-text-overlay-1": {
       "type": "image-with-text-overlay",
       "settings": {
         "wide_display": true,
-        "image": "shopify:\/\/shop_images\/website_header.jpg",
+        "image": "shopify://shop_images/website_header.jpg",
         "pretext": "",
         "title": "",
         "subtitle": "",
         "button1": "Shop Now",
-        "button1_link": "shopify:\/\/products\/oxva-xlim-se-bonus-kit",
+        "button1_link": "shopify://products/oxva-xlim-se-bonus-kit",
         "button1_style": "global-button--banner",
         "button2": "",
         "button2_link": "",
@@ -17,7 +26,7 @@
         "text_position": "center",
         "text_align": "center",
         "caption_content_background": "original",
-        "mobile_image": "shopify:\/\/shop_images\/800x500px_small_banner.jpg",
+        "mobile_image": "shopify://shop_images/800x500px_small_banner.jpg",
         "mobile_image_crop": "none",
         "mobile_text_below_image": false,
         "mobile_text_color": "#333333",
@@ -40,8 +49,8 @@
         "block-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/800x800px_product_banner_3.jpg",
-            "link": "shopify:\/\/collections\/disposable-vapes",
+            "image": "shopify://shop_images/800x800px_product_banner_3.jpg",
+            "link": "shopify://collections/disposable-vapes",
             "title": "Disposable Vapes",
             "text": "",
             "button_label": "Shop Now"
@@ -50,8 +59,8 @@
         "block-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/800x800px_product_banner_11_1_366502de-bc77-4e64-9df1-3cbe354b418c.jpg",
-            "link": "shopify:\/\/collections\/vape-kits",
+            "image": "shopify://shop_images/800x800px_product_banner_11_1_366502de-bc77-4e64-9df1-3cbe354b418c.jpg",
+            "link": "shopify://collections/vape-kits",
             "title": "Vape Kits",
             "text": "",
             "button_label": "Shop Now"
@@ -60,8 +69,8 @@
         "block-4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/800x800px_product_banner_4.jpg",
-            "link": "shopify:\/\/collections\/e-liquids",
+            "image": "shopify://shop_images/800x800px_product_banner_4.jpg",
+            "link": "shopify://collections/vape-juice-and-eliquid",
             "title": "E-Liquids",
             "text": "",
             "button_label": "Shop Now"
@@ -70,8 +79,8 @@
         "5184637f-0593-4afc-b643-d197da2f13f1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/800x800px_product_banner_2.jpg",
-            "link": "shopify:\/\/collections\/vape-coils",
+            "image": "shopify://shop_images/800x800px_product_banner_2.jpg",
+            "link": "shopify://collections/vape-coils",
             "title": "Vape Kit Coils",
             "text": "",
             "button_label": "Shop Now"
@@ -148,28 +157,28 @@
           "type": "collection",
           "settings": {
             "feature_collection": "vape-tanks",
-            "image": "shopify:\/\/shop_images\/800x800px_product_banner_8.jpg"
+            "image": "shopify://shop_images/800x800px_product_banner_8.jpg"
           }
         },
         "block-4": {
           "type": "collection",
           "settings": {
             "feature_collection": "box-mod-vape-kits",
-            "image": "shopify:\/\/shop_images\/box_mod_vape_kits_62c0eb91-77e8-4806-818e-795dd83a4284.jpg"
+            "image": "shopify://shop_images/box_mod_vape_kits_62c0eb91-77e8-4806-818e-795dd83a4284.jpg"
           }
         },
         "block-5": {
           "type": "collection",
           "settings": {
             "feature_collection": "vape-mods",
-            "image": "shopify:\/\/shop_images\/800x800px_product_banner_10_1.jpg"
+            "image": "shopify://shop_images/800x800px_product_banner_10_1.jpg"
           }
         },
         "block-6": {
           "type": "collection",
           "settings": {
             "feature_collection": "shortfill-e-liquids",
-            "image": "shopify:\/\/shop_images\/800x800px_product_banner_6.jpg"
+            "image": "shopify://shop_images/800x800px_product_banner_6.jpg"
           }
         }
       },
@@ -218,8 +227,8 @@
         "16621467645902973d-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/800x800px_product_banner_9.jpg",
-            "link": "shopify:\/\/collections\/tidy-nic-salt-e-liquid",
+            "image": "shopify://shop_images/800x800px_product_banner_9.jpg",
+            "link": "shopify://collections/tidy-nic-salt-e-liquid",
             "title": "Tidy Juice Salts 5 for £10",
             "text": "",
             "button_label": "Shop Now"
@@ -228,8 +237,8 @@
         "16621467645902973d-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/800x800px_product_banner_5.jpg",
-            "link": "shopify:\/\/collections\/nic-salts-7-for-18-97",
+            "image": "shopify://shop_images/800x800px_product_banner_5.jpg",
+            "link": "shopify://collections/nic-salts-7-for-18-97",
             "title": "Premium Salts 7 for £18.97",
             "text": "",
             "button_label": "Shop Now"
@@ -238,8 +247,8 @@
         "16621467645902973d-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/800x800px_product_banner_1.jpg",
-            "link": "shopify:\/\/collections\/shortfills-3-for-24-99",
+            "image": "shopify://shop_images/800x800px_product_banner_1.jpg",
+            "link": "shopify://collections/shortfills-3-for-24-99",
             "title": "Shortfills 3 for £24.99",
             "text": "",
             "button_label": "Shop now"
@@ -276,7 +285,7 @@
       "type": "featured-text",
       "settings": {
         "title": "ONLINE VAPE SHOP FOR ELECTRONIC CIGARETTES, VAPE KITS AND E-LIQUIDS",
-        "content": "<p>Welcome to The Vape House! We are a leading online vape shop eager to satisfy all your vaping<br\/>needs and ship the best quality vaping products directly to your front door. We<br\/>supply electronic cigarettes, vape starter kits, e-liquids and disposable vapes<\/p><p><strong>New to vaping?<\/strong><br\/>We want to help you to make the switch from tobacco cigarettes to vaping. Our<br\/>fully trained staff are here to guide you.<\/p><p><\/p><p><strong>Vape Kits<\/strong><\/p><p>Check out our <a href=\"https:\/\/www.thevapehouse.co.uk\/collections\/vape-kits\" title=\"https:\/\/www.thevapehouse.co.uk\/collections\/vape-kits\">vape kits<\/a> which are excellent value for money and great for newbies. We stock<br\/>electronic cigarettes, vape kits and vape pens from leading manufacturers in<br\/>the industry. Some of our top brands include <a href=\"https:\/\/www.thevapehouse.co.uk\/collections\/innokin\" title=\"https:\/\/www.thevapehouse.co.uk\/collections\/innokin\">Innokin<\/a>, Smok, Aspire and Vaporesso.<\/p><p>The vape kits that we supply are all tried and tested. Here at the Vape House many of our<br\/>staff are vapers and ex-smokers. If we love to vape it then so will you!<\/p><p><\/p><p><strong>E Liquids and Vape Juice<\/strong><\/p><p>Our online vape shop has plenty of choice when it comes to <a href=\"https:\/\/www.thevapehouse.co.uk\/collections\/e-liquids\" title=\"https:\/\/www.thevapehouse.co.uk\/collections\/e-liquids\">e-liquids<\/a> and vape juice. We offer a<br\/>variety of flavours including mint, fruit, tobacco and even dessert flavours!<br\/>From fruity to menthol, we can help you to find the vape juice that really<br\/>floats your boat!<\/p><p>We only stock the best brands including those that make the top 10 vape juice manufacturers<br\/>lists time and time again. This includes our favourites - <a href=\"https:\/\/www.thevapehouse.co.uk\/collections\/dinner-lady-e-liquid-10ml\" title=\"https:\/\/www.thevapehouse.co.uk\/collections\/dinner-lady-e-liquid-10ml\">Dinner Lady<\/a>, Riot Squad, Doozy Vape, and Zeus Juice.<\/p><p>As we’re based in Wales, it would be rude not to include some Welsh stockists. Don’t miss<br\/>these tremendous e-liquids from <a href=\"https:\/\/www.thevapehouse.co.uk\/collections\/chefs-vapour-shortfill-e-liquid\" title=\"https:\/\/www.thevapehouse.co.uk\/collections\/chefs-vapour-shortfill-e-liquid\">Chefs Vapour<\/a> and <a href=\"https:\/\/www.thevapehouse.co.uk\/collections\/decadent-vapours-e-liquid-10ml\" title=\"https:\/\/www.thevapehouse.co.uk\/collections\/decadent-vapours-e-liquid-10ml\">Decadent Vapours<\/a>. Lush!<\/p><p>Oh, and our extensive collection of <a href=\"https:\/\/www.thevapehouse.co.uk\/collections\/nic-salt-e-liquid\" title=\"https:\/\/www.thevapehouse.co.uk\/collections\/nic-salt-e-liquid\">Nic Salt E-liquid<\/a>, High Vg Shortfills or even <a href=\"https:\/\/www.thevapehouse.co.uk\/collections\/disposable-vapes\" title=\"https:\/\/www.thevapehouse.co.uk\/collections\/disposable-vapes\">Disposable Vapes<\/a> will leave you spoilt for choice. We cater for<br\/>every taste and budget.<\/p><p><strong>Vape Mods<\/strong><\/p><p>Vape mods are great because they give you a level of control over your vaping that you don’t<br\/>get with a pen. They offer versatility - as your vaping style changes, it<br\/>changes with you. And you’ll be pleased to know that we have an extensive<br\/>selection of <a href=\"https:\/\/www.thevapehouse.co.uk\/collections\/vape-mods\" title=\"https:\/\/www.thevapehouse.co.uk\/collections\/vape-mods\">vape mods<\/a> here at The Vape House.<\/p><p><strong>Not sure what Vape Kits to buy? We can help you!<\/strong><\/p><p>If you’re not quite sure what to buy then we can help you. Maybe you need help setting up<br\/>your first vape starter kit? Or maybe you are looking for recommendations on<br\/>Vape Mods, <a href=\"https:\/\/www.thevapehouse.co.uk\/collections\/pod-vape-kits\" title=\"https:\/\/www.thevapehouse.co.uk\/collections\/pod-vape-kits\">pod vape kits<\/a> or e-liquid flavours? We’d love to help!<\/p><p>You see, at The Vape House we are customer focused and want you to be happy with every purchase.<br\/>Our staff are fully trained and most of them are ex-smokers and vapers. This<br\/>means that we know exactly what we’re talking about when we help you to make<br\/>the switch.<\/p><p>So come and join the vaping revolution…<\/p><p>Get your vape on!<\/p>",
+        "content": "<p>Welcome to The Vape House! We are a leading online vape shop eager to satisfy all your vaping<br/>needs and ship the best quality vaping products directly to your front door. We<br/>supply electronic cigarettes, vape starter kits, e-liquids and disposable vapes</p><p><strong>New to vaping?</strong><br/>We want to help you to make the switch from tobacco cigarettes to vaping. Our<br/>fully trained staff are here to guide you.</p><p></p><p><strong>Vape Kits</strong></p><p>Check out our <a href=\"https://www.thevapehouse.co.uk/collections/vape-kits\" title=\"https://www.thevapehouse.co.uk/collections/vape-kits\">vape kits</a> which are excellent value for money and great for newbies. We stock<br/>electronic cigarettes, vape kits and vape pens from leading manufacturers in<br/>the industry. Some of our top brands include <a href=\"https://www.thevapehouse.co.uk/collections/innokin\" title=\"https://www.thevapehouse.co.uk/collections/innokin\">Innokin</a>, Smok, Aspire and Vaporesso.</p><p>The vape kits that we supply are all tried and tested. Here at the Vape House many of our<br/>staff are vapers and ex-smokers. If we love to vape it then so will you!</p><p></p><p><strong>E Liquids and Vape Juice</strong></p><p>Our online vape shop has plenty of choice when it comes to <a href=\"https://www.thevapehouse.co.uk/collections/e-liquids\" title=\"https://www.thevapehouse.co.uk/collections/e-liquids\">e-liquids</a> and vape juice. We offer a<br/>variety of flavours including mint, fruit, tobacco and even dessert flavours!<br/>From fruity to menthol, we can help you to find the vape juice that really<br/>floats your boat!</p><p>We only stock the best brands including those that make the top 10 vape juice manufacturers<br/>lists time and time again. This includes our favourites - <a href=\"https://www.thevapehouse.co.uk/collections/dinner-lady-e-liquid-10ml\" title=\"https://www.thevapehouse.co.uk/collections/dinner-lady-e-liquid-10ml\">Dinner Lady</a>, Riot Squad, Doozy Vape, and Zeus Juice.</p><p>As we’re based in Wales, it would be rude not to include some Welsh stockists. Don’t miss<br/>these tremendous e-liquids from <a href=\"https://www.thevapehouse.co.uk/collections/chefs-vapour-shortfill-e-liquid\" title=\"https://www.thevapehouse.co.uk/collections/chefs-vapour-shortfill-e-liquid\">Chefs Vapour</a> and <a href=\"https://www.thevapehouse.co.uk/collections/decadent-vapours-e-liquid-10ml\" title=\"https://www.thevapehouse.co.uk/collections/decadent-vapours-e-liquid-10ml\">Decadent Vapours</a>. Lush!</p><p>Oh, and our extensive collection of <a href=\"https://www.thevapehouse.co.uk/collections/nic-salt-e-liquid\" title=\"https://www.thevapehouse.co.uk/collections/nic-salt-e-liquid\">Nic Salt E-liquid</a>, High Vg Shortfills or even <a href=\"https://www.thevapehouse.co.uk/collections/disposable-vapes\" title=\"https://www.thevapehouse.co.uk/collections/disposable-vapes\">Disposable Vapes</a> will leave you spoilt for choice. We cater for<br/>every taste and budget.</p><p><strong>Vape Mods</strong></p><p>Vape mods are great because they give you a level of control over your vaping that you don’t<br/>get with a pen. They offer versatility - as your vaping style changes, it<br/>changes with you. And you’ll be pleased to know that we have an extensive<br/>selection of <a href=\"https://www.thevapehouse.co.uk/collections/vape-mods\" title=\"https://www.thevapehouse.co.uk/collections/vape-mods\">vape mods</a> here at The Vape House.</p><p><strong>Not sure what Vape Kits to buy? We can help you!</strong></p><p>If you’re not quite sure what to buy then we can help you. Maybe you need help setting up<br/>your first vape starter kit? Or maybe you are looking for recommendations on<br/>Vape Mods, <a href=\"https://www.thevapehouse.co.uk/collections/pod-vape-kits\" title=\"https://www.thevapehouse.co.uk/collections/pod-vape-kits\">pod vape kits</a> or e-liquid flavours? We’d love to help!</p><p>You see, at The Vape House we are customer focused and want you to be happy with every purchase.<br/>Our staff are fully trained and most of them are ex-smokers and vapers. This<br/>means that we know exactly what we’re talking about when we help you to make<br/>the switch.</p><p>So come and join the vaping revolution…</p><p>Get your vape on!</p>",
         "button_label": "",
         "button_link": "",
         "text_size": "featured_text",
@@ -318,7 +327,7 @@
         "display_first_name": false,
         "display_last_name": false,
         "newsletter_title": "Subscribe",
-        "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;<\/p>",
+        "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;</p>",
         "newsletter_section_text_align": "center",
         "css_class": "",
         "custom_css": ""
